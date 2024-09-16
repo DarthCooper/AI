@@ -63,7 +63,7 @@ class KeyMethods:
             raise TypeError('Parameter 1 should be a dataFrame and parameter 2 should be a string or omitted entirely')
         return deviation
     
-def getEmperical(*args, **kwds):
+    def getEmperical(*args, **kwds):
                 """
         args:
             dataFrame : the dataframe used to store the data
@@ -72,3 +72,13 @@ def getEmperical(*args, **kwds):
         #mean = getMean(args)
         #deviation = getStandardDeviation(args)
         #print(f"A majority of songs fall within:  {mean + deviation} and {mean-deviation}")
+        
+    def getZScore(*args, **kwds):
+        zscores = 0
+        if len(args) == 3 and isinstance(args[0], float):
+            zscores = (args[0] - args[1]) / args[2]
+        elif len(args) == 3 and isinstance(args[0], tuple):
+            zscores = [(value - mean) / standard_deviation for value in values]
+        else:
+            raise TypeError('Parameter 1 should be a float or an array of floats)
+        return zscores
