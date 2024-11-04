@@ -2,6 +2,7 @@ import pandas as pd
 import math
 import seaborn as sns
 import matplotlib.pyplot as plt
+from enum import Enum
 
 class KeyMethods:
     def getFiveData(dataFrame : pd.DataFrame(), key : str) -> dict:
@@ -77,8 +78,36 @@ class KeyMethods:
         zscores = 0
         if len(args) == 3 and isinstance(args[0], float):
             zscores = (args[0] - args[1]) / args[2]
-        elif len(args) == 3 and isinstance(args[0], tuple):
-            zscores = [(value - mean) / standard_deviation for value in values]
+        elif len(args) == 3 and isinstance(args[0], list):
+            zscores = [(value - arsg[1]) / args[2] for value in args[0]]
         else:
-            raise TypeError('Parameter 1 should be a float or an array of floats)
+            raise TypeError('Parameter 1 should be a float or an array of floats')
         return zscores
+                            
+    def OverlayHistograms(dataSets, x, bins, colors):
+        for i in range(len(dataSets)):
+            color = colors[i]
+            sns.histplot(data = dataSets[i], x = x, bins = bins, color = color)
+            
+    def RemoveOutliers(dataSet, column : str):
+        q_low = dataSet[column].quantile(0.25)
+        q_hi  = dataSet[column].quantile(0.75)
+        df_filtered = dataSet[(dataSet[column] < q_hi) & (dataSet[column] > q_low)]
+        return df_filtered
+    
+    def calcCorr(df : pd.DataFrame, x : str, y : str, style : str):
+        fixedX = KeyMethods.RemoveOutliers(df, x)
+        fixedDF = KeyMethods.RemoveOutliers(fixedX, y)
+        
+        subDf = fixedDF[[x,y]]
+        
+        return subDf.corr(method = CorrMethods[style].value)
+    
+    def CombineDataSets(df1, df2, sharedColumn):
+        mergedDF = pd.merge(df1, df2, on = sharedColumn, how = 'inner')
+        return mergedDF
+    
+class CorrMethods(Enum):
+    pearson = 'pearson'
+    kendall = 'kendall'
+    spearman = 'spearman'
