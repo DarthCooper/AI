@@ -1,0 +1,580 @@
+Name,Age,Is Older,Age Diff,Occupation,Function,Hometown,City,State,Region,ElimWeek,Season,First_Impression_Rose,Hair Color,Is Blonde,Winner,Height
+Amanda Marsh,23,0,8,Event Planner,Retail/Services/Entrepreneur,"Chanute, Kansas",Chanute,Kansas,Midwest,7,1,0,Blonde,1,1,68
+Trista Rehn,29,0,2,Miami Heat Dancer,Arts/Entertainment,"Miami, Florida",Miami,Florida,South,6,1,0,Blonde,1,0,
+Shannon Oliver,24,0,7,Financial Management Consultant,Finance,"Dallas, Texas",Dallas,Texas,South,5,1,0,Brown,0,0,
+Kim,24,0,7,Nanny,Retail/Services/Entrepreneur,"Tempe, Arizona",Tempe,Arizona,West,4,1,0,Blonde,1,0,
+Cathy Grimes,22,0,9,Graduate Student,Student,"Terra Haute, Indiana",Terra Haute,Indiana,Midwest,3,1,0,Blonde,1,0,
+Christina,28,0,3,Attorney,Legal,"Bonita, California",Bonita,California,West,3,1,0,,,0,
+LaNease Adams,23,0,8,Actress,Arts/Entertainment,"Los Angeles, California",Los Angeles,California,West,3,1,0,Black,0,0,
+Rhonda,28,0,3,Commercial Real Estate Agent,Real Estate,"Woodward, Oklahoma",Woodward,Oklahoma,South,3,1,0,Brown,0,0,
+Alexa,27,0,4,Special Ed. Teacher,Education,"Beverly Hills, California",Beverly Hills,California,West,2,1,0,,,0,
+Amy,28,0,3,Production Coordinator,Arts/Entertainment,"New York, New York",New York,New York,Northeast,2,1,0,,,0,
+Angela,25,0,6,Hooters Waitress,Restaurant,"Avondale, Arizona",Avondale,Arizona,West,2,1,0,,,0,
+Angelique,27,0,4,Actress,Arts/Entertainment,"Burbank, California",Burbank,California,West,2,1,0,,,0,
+Katie,23,0,8,Power Tool Sales Rep.,Sales,"Malden, Massachusetts",Malden,Massachusetts,Northeast,2,1,0,,,0,
+Melissa,25,0,6,Photographer,Arts/Entertainment,"Tempe, Arizona",Tempe,Arizona,West,2,1,0,Brown,0,0,
+Tina,27,0,4,Graduate Student,Student,"Plano, Texas",Plano,Texas,South,2,1,0,Black,0,0,
+Amber,29,0,2,Business Development Director,Sales,"Los Angeles, California",Los Angeles,California,West,1,1,0,,,0,
+Daniela,30,0,1,Neuropsychologist,Medical,"Seattle, Washington",Seattle,Washington,West,1,1,0,,,0,
+Denise,30,0,1,Doctor,Medical,"Honolulu, Hawaii",Honolulu,Hawaii,West,1,1,0,Brown,0,0,
+Jackie,22,0,9,Bar Manager,Restaurant,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,Northeast,1,1,0,,,0,
+Jill,31,0,0,Retail Manager,Retail/Services/Entrepreneur,"Chicago, Illinois",Chicago,Illinois,Midwest,1,1,0,Brown,0,0,
+Kristina,27,0,4,Advertising Executive,Marketing,"Los Angeles, California",Los Angeles,California,West,1,1,0,Brown,0,0,
+Lisa,29,0,2,Attorney,Legal,"Dallas, Texas",Dallas,Texas,South,1,1,0,Brown,0,0,
+Paula,24,0,7,Insurance Representative,Sales,"Swansea, Massachusetts",Swansea,Massachusetts,Northeast,1,1,0,,,0,
+Rachel,29,0,2,6th Grade Teacher,Education,"Eastchester, New York",Eastchester,New York,Northeast,1,1,0,,,0,
+Wendi,26,0,5,Technology Specialist,Corporate,"Dallas, Texas",Dallas,Texas,South,1,1,0,Brown,0,0,
+Helene Eksterowicz,27,0,1,School Psychologist,Education,"Gloucester, New Jersey",Gloucester,New Jersey,Northeast,8,2,0,Blonde,1,1,68
+Brooke Smith,22,0,6,College Student,Student,"Albertville, Alabama",Albertville,Alabama,South,7,2,0,Blonde,1,0,
+Gwen Gioia,31,1,3,Executive Recruiter,Sales,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,Northeast,6,2,0,Blonde,1,0,
+Angela,27,0,1,Registered Nurse,Medical,"Kansas City, Missouri",Kansas City,Missouri,Midwest,5,2,0,,,0,
+Hayley,28,0,0,Retail Manager,Retail/Services/Entrepreneur,"Lake Oswego, Oregon",Lake Oswego,Oregon,West,4,2,0,,,0,
+Heather Crawford,30,1,2,Flight Attendant,Transportation,"Dallas, Texas",Dallas,Texas,South,4,2,0,,,0,
+Christi,23,0,5,Assistant Financial Advisor,Finance,"Boise, Idaho",Boise,Idaho,West,3,2,0,,,0,
+Heather,24,0,4,Marriage Therapy Trainee,Medical,"Walnut Creek, California",Walnut Creek,California,West,3,2,0,,,0,
+Kyla,22,0,6,Airline Supervisor,Transportation,"Midvale, Utah",Midvale,Utah,West,3,2,0,,,0,
+Shannon,26,0,2,Graphic Artist,Arts/Entertainment,"Long Island, New York",Long Island,New York,Northeast,3,2,0,,,0,
+Dana,24,0,4,Radio Sales,Sales,"Beverly Hills, California",Beverly Hills,California,West,2,2,0,,,0,
+Erin,25,0,3,Publications Quality Control,Corporate,"Westchester, Pennsylvania",Westchester,Pennsylvania,Northeast,2,2,0,,,0,
+Suzanne,33,1,5,Flight Attendant,Transportation,"Redondo Beach, California",Redondo Beach,California,West,2,2,0,,,0,
+Frances,30,1,2,Strategic Planning Analyst,Finance,"San Francisco, California",San Francisco,California,West,2,2,0,,,0,
+Anindita,27,0,1,Attorney,Legal,"New York, New York",New York,New York,Northeast,2,2,0,Black,0,0,
+Amber,26,0,2,Psychologist,Medical,"Chapel Hill, North Carolina",Chapel Hill,North Carolina,South,1,2,0,,,0,
+Camille,29,1,1,Actress,Arts/Entertainment,"Los Angeles, California",Los Angeles,California,West,1,2,0,,,0,
+Cari,29,1,1,3rd Grade Teacher,Education,"Granite City, Illinois",Granite City,Illinois,Midwest,1,2,0,,,0,
+Christy,24,0,4,Radiological Technologist,Medical,"Avondale, Arizona",Avondale,Arizona,West,1,2,0,,,0,
+Erin,24,0,4,Interior Designer,Retail/Services/Entrepreneur,"Houston, Texas",Houston,Texas,South,1,2,0,,,0,
+Fatima,22,0,6,College Student,Student,"Long Beach, California",Long Beach,California,West,1,2,0,,,0,
+Liangy,30,1,2,Paralegal,Legal,"Coral Gables, Florida",Coral Gables,Florida,South,1,2,0,,,0,
+Lori,26,0,2,Former NBA Cheerleader,Arts/Entertainment,"Dallas, Texas",Dallas,Texas,South,1,2,0,,,0,
+Merrilee,28,0,0,1st Grade Teacher,Education,"Forked River, New Jersey",Forked River,New Jersey,Northeast,1,2,0,,,0,
+Suzi,28,0,0,Communications Specialist,Corporate,"Richmond, Virginia",Richmond,Virginia,South,1,2,0,,,0,
+Jessica Bowlin,22,0,3,Student,Student,"Huntington Beach, California",Huntington Beach,California,West,8,5,0,Blonde,1,1,65
+Tara Huckeby,23,1,1,General contractor,Corporate,"Shawnee, Oklahoma",Shawnee,Oklahoma,South,7,5,0,Blonde,1,0,
+Mandy Jaye Jeffreys,26,1,3,Designer for an architect firm,Retail/Services/Entrepreneur,"Midland, Texas",Midland,Texas,South,6,5,0,,,0,
+Trish Schneider,28,0,2,Model,Arts/Entertainment,"Atlanta, Georgia",Atlanta,Georgia,South,5,5,1,Brown,0,0,
+Suzie Williams,23,1,3,Prosthetic technician,Medical,"Ann Arbor, Michigan",Ann Arbor,Michigan,Midwest,4,5,0,Blonde,1,0,
+Karen Lindsay,28,0,0,Pharmaceutical sales,Sales,"Pleasant Grove, Utah",Pleasant Grove,Utah,West,4,5,0,Brown,0,0,
+Jessica Holcomb,25,0,1,Attorney,Legal,"Pearsall, Texas",Pearsall,Texas,South,3,5,0,Blonde,1,0,
+Julie Durda,24,1,1,Professional Cheerleader,Arts/Entertainment,"Sacramento, California",Sacramento,California,West,3,5,0,,,0,
+Jenny De Schiralli,26,0,3,Swim instructor/nanny/personal trainer,Retail/Services/Entrepreneur,"Carrboro, North Carolina",Carrboro,North Carolina,South,3,5,0,,,0,
+Katie Gehart,22,1,1,LASIK Eye and Skin Center manager,Medical,"Scottsdale, Arizona",Scottsdale,Arizona,West,3,5,0,Brown,0,0,
+Jean-Marie Callahan,26,1,2,Hair stylist,Retail/Services/Entrepreneur,"Gibson, North Carolina",Gibson,North Carolina,South,2,5,0,,,0,
+Debbie Merkett,27,1,2,Massage therapist/bartender,Retail/Services/Entrepreneur,"Pinetops, North Carolina",Pinetops,North Carolina,South,2,5,0,Blonde,1,0,
+Anne-Catherine Labb√©,27,1,2,Model/make-up artist,Arts/Entertainment,"Quebec City, Quebec",Quebec City,Quebec,International,2,5,0,,,0,
+Amber LaRoux,27,0,0,Consultant,Corporate,"Sunriver, Oregon",Sunriver,Oregon,West,2,5,0,Blonde,1,0,
+Mandy Clemens,25,0,0,Professional soccer player,Arts/Entertainment,"San Diego, California",San Diego,California,West,2,5,0,Brown,0,0,
+Kristy Romero,25,0,1,Student,Student,"Dearborn, Michigan",Dearborn,Michigan,Midwest,2,5,0,,,0,
+Celeste Creel,24,0,1,Model/executive assistant,Arts/Entertainment,"Ithaca, New York",Ithaca,New York,Northeast,2,5,0,,,0,
+Jenny Matthews,24,1,1,Retail manager,Retail/Services/Entrepreneur,"Canton, Michigan",Canton,Michigan,Midwest,2,5,0,Blonde,1,0,
+Dolores Farburg,26,0,0,Account manager,Sales,"Madison, New Jersey",Madison,New Jersey,Northeast,1,5,0,,,0,
+Francine Jones,25,0,0,Retail manager,Retail/Services/Entrepreneur,"Houston, Texas",Houston,Texas,South,1,5,0,Black,0,0,
+DeShaun Warner,25,0,4,Account manager/sales,Sales,"Phillipsburg, New Jersey",Phillipsburg,New Jersey,Northeast,1,5,0,Black,0,0,
+Jessica Kyron,21,1,1,Student,Student,"Cincinnati, Ohio",Cincinnati,Ohio,Midwest,1,5,0,,,0,
+Holly Reeder,26,1,1,Bank representative,Finance,"Tulsa, Oklahoma",Tulsa,Oklahoma,South,1,5,0,,,0,
+Rachel Clementi,26,0,0,Fashion public relations manager,Arts/Entertainment,"Buffalo, New York",Buffalo,New York,Northeast,1,5,0,Blonde,1,0,
+Kristin Clearwater,25,,,Singer,Arts/Entertainment,"Sausalito, California",Sausalito,California,West,1,5,0,Blonde,1,0,
+Jennifer Wilson,24,0,10,Teacher,Education,"Pembroke Pines, Florida",Pembroke Pines,Florida,South,8,9,0,Blonde,1,1,68
+Sadie Murray,23,0,11,Publicist,Corporate,"Carlsbad, California",Carlsbad,California,West,7,9,0,Blonde,1,0,
+Lisa Blank,25,0,9,Marketing manager,Marketing,"Portland, Oregon",Portland,Oregon,West,6,9,1,Brown,0,0,
+Agnese Polliza,24,0,10,Student,Student,"Venice, Italy",Venice,Italy,International,5,9,0,Brown,0,0,
+Jeanette Pawula,23,0,11,Teacher,Education,"Bloomingdale, Illinois",Bloomingdale,Illinois,Midwest,4,9,0,Black,0,0,
+Desiree Valentin,22,0,12,Realtor,Real Estate,"Salt Lake City, Utah",Salt Lake City,Utah,West,4,9,0,Blonde,1,0,
+Jami Matzke,27,0,7,Event planner,Retail/Services/Entrepreneur,"Galveston, Texas",Galveston,Texas,South,3,9,0,Blonde,1,0,
+Gina Clark,28,0,6,Ultrasound technician,Medical,"Chicago, Illinois",Chicago,Illinois,Midwest,3,9,0,Brown,0,0,
+Erica Rose,23,0,11,Socialite,Arts/Entertainment,"Houston, Texas",Houston,Texas,South,3,9,0,Blonde,1,0,
+Sarah Schnare,30,0,4,Journalist,Arts/Entertainment,"Nelson, British Columbia",Nelson,British Columbia,International,2,9,0,Brown,0,0,
+Kim Jackson,27,0,7,Interior designer,Retail/Services/Entrepreneur,"Newport Beach, California",Newport Beach,California,West,2,9,0,Blonde,1,0,
+Ellen DeMaio,30,0,4,Realtor,Real Estate,"New Haven, Connecticut",New Haven,Connecticut,Northeast,2,9,0,Brown,0,0,
+Tara Durr,24,0,10,Realtor,Real Estate,"St. Augustine, Florida",St. Augustine,Florida,South,1,9,0,Blonde,1,0,
+Rosella Fratto,27,0,7,Make-up artist,Arts/Entertainment,"Chicago, Illinois",Chicago,Illinois,Midwest,1,9,0,Brown,0,0,
+Rita Ghazal,29,0,5,Policy advisor,Government,"Richmond, VA",Richmond,Virginia,South,1,9,0,Brown,0,0,
+Renee Snell,30,0,4,Broadcast marketer,Marketing,"Baltimore, MD",Baltimore,Maryland,Northeast,1,9,0,Blonde,1,0,
+Meri Barr,27,0,7,Attorney,Legal,"Biloxi, MS",Biloxi,Missouri,Midwest,1,9,0,Brown,0,0,
+Laura Morgan,29,0,5,Dolphin trainer,Arts/Entertainment,"San Diego, CA",San Diego,California,West,1,9,0,Blonde,1,0,
+Jessica Horner,25,0,9,Assistant buyer,Real Estate,"Charlotte, NC",Charlotte,North Carolina,South,1,9,0,Black,0,0,
+Heather Sneed,34,0,0,Registered nurse,Medical,"Aliquippa, PA",Aliquippa,Pennsylvania,Northeast,1,9,0,Blonde,1,0,
+Elyse Hammer,27,0,7,Physician,Medical,"New York, NY",New York,New York,Northeast,1,9,0,Red,0,0,
+Cosetta Blanca,,0,34,Dancer,Arts/Entertainment,"Venice, Italy",Venice,Italy,International,1,9,0,,,0,
+Claudia Gismondi,22,0,12,Restaurateur,Restaurant,"Boca Raton, FL",Boca Raton,Florida,South,1,9,0,Brown,0,0,
+Carissa Ilburg,25,0,9,Attorney,Legal,"Cattaraugus, NY",Cattaraugus,New York,Northeast,1,9,0,Blonde,1,0,
+Britt (Bowe) Newton,28,0,6,Beer chemist,Agriculture,"Columbus, OH",Columbus,Ohio,Midwest,1,9,0,Blonde,1,0,
+Andrea Shirley,28,0,6,Hotel concierge,Retail/Services/Entrepreneur,"Cincinnati, OH",Cincinnati,Ohio,Midwest,1,9,0,Brown,0,0,
+April Jacobs,23,0,11,Model,Arts/Entertainment,"Chicago, IL",Chicago,Illinois,Midwest,1,9,0,Brown,0,0,
+Tessa Horst,26,0,4,Social Worker,Government,"San Francisco, California",San Francisco,California,West,9,10,0,Brown,0,1,68
+Bevin Nicole Powers,28,0,2,Assistant,Corporate,"Palo Alto, California",Palo Alto,California,West,8,10,0,Blonde,1,0,
+Danielle Imwalle,25,0,5,Graphic Designer,Arts/Entertainment,"Bethel, Connecticut",Bethel,Connecticut,Northeast,7,10,0,Blonde,1,0,
+Amber Alchalabi,23,0,7,Teacher,Education,"Sugar Land, Texas",Sugar Land,Texas,South,6,10,0,Black,0,0,
+Stephanie Wilhite,23,0,7,Project Manager,Corporate,"Overland Park, Kansas",Overland Park,Kansas,Midwest,5,10,0,Blonde,1,0,
+Tina Wu,26,0,4,Medical student,Student,"Los Angeles, California",Los Angeles,California,West,5,10,0,Black,0,0,
+Kate Brockhouse,24,0,6,Boutique owner,Retail/Services/Entrepreneur,"Ravenel, South Carolina",Ravenel,South Carolina,South,4,10,0,Blonde,1,0,
+Nicole Clary,26,0,4,Sales Manager,Sales,"Charleston, SC",Charleston,South Carolina,South,4,10,0,Black,0,0,
+Stephanie Tipper,27,0,3,Organ donor coordinator,Medical,"Folly Beach, SC",Folly Beach,South Carolina,South,4,10,1,Brown,0,0,
+Amanda Hackney,26,0,4,Financial analyst,Finance,"Dallas, TX",Dallas,Texas,South,3,10,0,Black,0,0,
+Erin Parker,24,0,6,Financial analyst,Finance,"Logansport, LA",Logansport,Louisiana,South,3,10,0,Blonde,1,0,
+Peyton Wright,24,0,6,Sorority recruiter,Misc,"La Vergne, Tennessee",La Vergne,Tennessee,South,3,10,0,Blonde,1,0,
+Alexis Young,26,0,4,Attorney,Legal,"Southlake, TX",Southlake,Texas,South,2,10,0,Brown,0,0,
+Susan Anderson,23,0,7,Boutique manager,Retail/Services/Entrepreneur,"The Woodlands, TX",The Woodlands,Texas,South,2,10,0,Blonde,1,0,
+Tiffany Warren,28,0,2,Medical equipment sales rep,Sales,"Boston, MA",Boston,Massachusetts,Northeast,2,10,0,Blonde,1,0,
+Blakeney Rowe,29,0,1,Radio sales,Sales,"Birmingham, AL",Birmingham,Alabama,South,1,10,0,Blonde,1,0,
+Candace DeCost,23,0,7,Waitress,Restaurant,"Hilton Head Island, SC",Hilton Head Island,South Carolina,South,1,10,0,Blonde,1,0,
+Catherine Warren,23,0,7,Former Miss Illinois,Arts/Entertainment,"Lake Forest, IL",Lake Forest,Illinois,Midwest,1,10,0,Blonde,1,0,
+Danielle Vallis,26,0,4,Attorney,Legal,"Bronx, NY",Bronx,New York,Northeast,1,10,0,Brown,0,0,
+Jackie Topelli,23,0,7,Executive coordinator,Corporate,"Minneapolis, MN",Minneapolis,Minnesota,Midwest,1,10,0,Brown,0,0,
+Jeanette Alvarez,27,0,3,Health care manager,Medical,"Tampa, FL",Tampa,Florida,South,1,10,0,Black,0,0,
+Jessica Devallo,32,1,2,Hedge fund analyst,Finance,"New York, NY",New York,New York,Northeast,1,10,0,Blonde,1,0,
+Linda Malek,33,1,3,Attorney,Legal,"Cuyahoga Falls, OH",Cuyahoga Falls,Ohio,Midwest,1,10,0,Black,0,0,
+Lindsay Smith,22,0,8,Student,Student,"Lawrence, KS",Lawrence,Kansas,Midwest,1,10,0,Brown,0,0,
+Tiffany Forester,27,0,3,Real estate sales/development,Real Estate,"St. Louis Park, MN",St. Louis Park,Minnesota,Midwest,1,10,0,Blonde,1,0,
+Deanna Pappas,25,0,9,Realtor,Real Estate,"Newnan, Georgia",Newnan,Georgia,South,8,11,0,Brown,0,0,67
+Jenni Croft,27,0,7,Phoenix Suns Cheerleader,Arts/Entertainment,"Wichita, Kansas",Wichita,Kansas,Midwest,8,11,1,Black,0,0,
+Bettina Bell,27,0,7,Realtor,Real Estate,"Washington, D.C.",Washington D.C.,Washington D.C.,Northeast,7,11,0,Blonde,1,0,
+Sheena Stewart,23,0,11,Internet marketing executive,Marketing,"Walnut Creek, California",Walnut Creek,California,West,6,11,0,Blonde,1,0,
+Hillary Reisinger,27,0,7,Registered nurse,Medical,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,Northeast,5,11,0,Blonde,1,0,
+Kristy Katzmann,29,0,5,Acupuncturist,Medical,"Gurnee, Illinois",Gurnee,Illinois,Midwest,5,11,0,Black,0,0,
+"Estefania ""Stephy"" Kootz",26,0,8,Executive assistant,Corporate,"Atlanta, Georgia",Atlanta,Georgia,South,4,11,0,Brown,0,0,
+Jade Beazley,24,0,10,Boutique sales worker,Retail/Services/Entrepreneur,"Nashville, Tennessee",Nashville,Tennessee,South,4,11,0,Brown,0,0,
+McCarten Delaney,26,0,8,Account manager,Sales,"Lemon Grove, California",Lemon Grove,California,West,4,11,0,Brown,0,0,
+Lindsey Hawkins,25,0,9,Model,Arts/Entertainment,"Livonia, Michigan",Livonia,Michigan,Midwest,3,11,0,Blonde,1,0,
+Sarah Newlon,23,0,11,Bar manager,Restaurant,"O'Fallon, Illinois",O'Fallon,Illinois,Midwest,3,11,0,Brown,0,0,
+Solisa Shoop,25,0,9,Esthetician,Medical,"Georgetown, Texas",Georgetown,Texas,South,3,11,0,Black,0,0,
+Michele Leavy,30,0,4,Realtor,Real Estate,"South Brunswick, New Jersey",South Brunswick,New Jersey,Northeast,2,11,0,Blonde,1,0,
+Mallory Simons,24,0,10,Nanny,Retail/Services/Entrepreneur,"Honolulu, Hawaii",Honolulu,Hawaii,West,2,11,0,Blonde,1,0,
+Erin Gardner,25,0,9,Publishing sales executive,Sales,"Tampa, Florida",Tampa,Florida,South,2,11,0,Blonde,1,0,
+Jessica Kiss,27,0,7,News anchor,Arts/Entertainment,"Lady Lake, Florida",Lady Lake,Florida,South,1,11,0,Blonde,1,0,
+Juli Gilliam,24,0,10,Law student,Student,"Chicago, Illinois",Chicago,Illinois,Midwest,1,11,0,Blonde,1,0,
+Kim Orville,31,0,3,Realtor,Real Estate,"Woodbridge, Connecticut",Woodbridge,Connecticut,Northeast,1,11,0,Brown,0,0,
+Lori Langley,33,0,1,Biology teacher,Education,"Annapolis, Maryland",Annapolis,Maryland,Northeast,1,11,0,Blonde,1,0,
+Melissa Buschel,28,0,6,Event planner,Retail/Services/Entrepreneur,"Westchester, New York",Westchester,New York,Northeast,1,11,0,Blonde,1,0,
+Morgan Becker,24,0,10,Graduate student,Student,"Tempe, Arizona",Tempe,Arizona,West,1,11,0,Black,0,0,
+Natalie Velasco,25,0,9,Law student,Student,"Duncanville, Texas",Duncanville,Texas,South,1,11,0,Black,0,0,
+Regina Doringa,31,0,3,Account representative,Sales,"San Diego, California",San Diego,California,West,1,11,0,Black,0,0,
+Tauni Nessler ,31,0,3,Emergency room nurse,Medical,"St. Louis Park, Minnesota",St. Louis Park,Minnesota,Midwest,1,11,0,Brown,0,0,
+Susan Stein,35,1,1,Project analyst,Corporate,"St. Charles, Illinois",St. Charles,Illinois,Midwest,1,11,0,Brown,0,0,
+Shayne Lamas,22,0,5,Actress,Arts/Entertainment,"Malibu, California",Malibu,California,West,9,12,0,Blonde,1,1,62
+Chelsea Wanstrath,25,0,2,Pharmaceutical sales rep.,Sales,"Durango, Colorado",Durango,Colorado,West,8,12,0,Brown,0,0,
+Amanda Rantuccio,27,0,0,Account Executive,Sales,"Niceville, Florida",Niceville,Florida,South,7,12,1,Brown,0,0,
+Noelle Drake,26,0,1,Photographer,Arts/Entertainment,"Loveland, Colorado",Loveland,Colorado,West,6,12,0,Brown,0,0,
+Marshana Ritchie,27,0,0,Fashion designer,Arts/Entertainment,"Brooklyn, New York",Brooklyn,New York,Northeast,5,12,0,Black,0,0,
+Robin Canfield,22,0,5,Advertising coordinator,Marketing,"Holland, Michigan",Holland,Michigan,Midwest,5,12,0,Brown,0,0,
+Ashlee Williss,22,0,5,Singer-songwriter,Arts/Entertainment,"Jacksonville Beach, Florida",Jacksonville Beach,Florida,South,4,12,0,Brown,0,0,
+Kelly Duncan,25,0,2,Medical sales rep.,Sales,"Hollywood, California",Hollywood,California,West,4,12,0,Blonde,1,0,
+Holly Durst,24,0,3,Children's book author,Arts/Entertainment,"Suffield, Ohio",Suffield,Ohio,Midwest,4,12,0,Blonde,1,0,
+Amy,22,0,5,Nanny,Retail/Services/Entrepreneur,"Stockton, California",Stockton,California,West,3,12,0,Blonde,1,0,
+Erin Storm,33,1,6,Hot-dog vendor,Retail/Services/Entrepreneur,"Venice, California",Venice,California,West,3,12,0,Blonde,1,0,
+Kristine Heffelfinger,33,1,6,Personal trainer,Retail/Services/Entrepreneur,"Dillsburg, Pennsylvania",Dillsburg,Pennsylvania,Northeast,3,12,0,Blonde,1,0,
+Carri Perrier,25,0,2,Church marketing rep.,Marketing,"Oklahoma City, Oklahoma",Oklahoma City,Oklahoma,South,2,12,0,Red,0,0,
+Erin Harper,25,0,2,Event planner,Retail/Services/Entrepreneur,"Seattle, Washington",Seattle,Washington,West,2,12,0,Blonde,1,0,
+Michelle P.,28,1,1,Administrative assistant,Corporate,"Syracuse, New York",Syracuse,New York,Northeast,2,12,0,Black,0,0,
+Alyssa,24,0,3,Biology student,Student,"Boise, Idaho",Boise,Idaho,West,1,12,0,Blonde,1,0,
+Amanda Petterman,26,0,1,Law student,Student,"LaFollette, Tennessee",LaFollette,Tennessee,South,1,12,0,Blonde,1,0,
+Denise,30,1,3,Attorney and former White House aide,Legal,"Washington, D.C",Washington,D.C,Northeast,1,12,0,Brown,0,0,
+Devon,24,0,3,Makeup artist,Arts/Entertainment,"Austin, Texas",Austin,Texas,South,1,12,0,Blonde,1,0,
+Lesley Geyer,23,0,4,Youth minister,Misc,"Tampa, Florida",Tampa,Florida,South,1,12,0,Brown,0,0,
+Michele R.,33,1,6,Interior designer,Retail/Services/Entrepreneur,"Laguna Niguel, California",Laguna Niguel,California,West,1,12,0,Brown,0,0,
+Rebecca,30,1,3,Attorney,Legal,"Alamo, California",Alamo,California,West,1,12,0,Black,0,0,
+Stacey Elza,26,0,1,Graduate student,Student,"Chicago, Illinois",Chicago,Illinois,Midwest,1,12,0,Blonde,1,0,
+Tamara,23,0,4,Cocktail waitress,Restaurant,"Beverly Hills, California",Beverly Hills,California,West,1,12,0,Brown,0,0,
+Tiffany,33,1,6,31,Marketing,"San Francisco, California",San Francisco,California,West,1,12,0,Black,0,0,
+Melissa Rycroft,25,0,7,Sales Representative,Sales,"Dallas, Texas",Dallas,Texas,South,9,13,0,Brown,0,1,63
+Molly Malaney,24,0,8,Department Store Buyer,Retail/Services/Entrepreneur,"Brookfield, Wisconsin",Brookfield,Wisconsin,Midwest,8,13,0,Blonde,1,0,67
+Jillian Harris,29,0,3,Interior Designer,Retail/Services/Entrepreneur,"Peace River, Alberta",Peace River,Alberta,International,7,13,0,Brown,0,0,62
+Naomi Rose Crespo,24,0,8,Flight Attendant,Transportation,"Carlsbad, California",Carlsbad,California,West,6,13,0,Brown,0,0,
+Stephanie Hogan,34,1,2,Single Mother & Medical Marketing Rep.,Marketing,"Huntsville, Alabama",Huntsville,Alabama,South,5,13,0,Brown,0,0,
+Lauren Wanger,27,0,5,Teacher,Education,"Marlboro, New Jersey",Marlboro,New Jersey,Northeast,4,13,0,Blonde,1,0,
+Megan Parris,25,0,7,Single Mother and Lacrosse Coach,Arts/Entertainment,"Sewickley, Pennsylvania",Sewickley,Pennsylvania,Northeast,4,13,0,Brown,0,0,
+Shannon Bair,29,0,3,Dental Hygienist,Medical,"Marshall, Missouri",Marshall,Missouri,Midwest,4,13,0,Brown,0,0,
+"Nicole ""Nikki"" Kaapke",29,0,3,Administrative Assistant,Corporate,"Blue Island, Illinois",Blue Island,Illinois,Midwest,4,13,1,Black,0,0,
+Erica DeSimone,25,0,7,Account Executive,Sales,"Monroe, Connecticut",Monroe,Connecticut,Northeast,3,13,0,Blonde,1,0,
+Kari Fajen,27,0,5,Account Executive,Sales,"Lee's Summit, Missouri",Lee's Summit,Missouri,Midwest,3,13,0,Brown,0,0,
+Natalie Getz,27,0,5,Human Resources Recruiter,Sales,"Morton, Illinois",Morton,Illinois,Midwest,3,13,0,Blonde,1,0,
+Raquel Medeiros,27,0,5,Medical Student,Student,"Recife, Pernambuco, Brazil",Recife,Pernambuco,International,2,13,0,Black,0,0,
+Sharon Staebell,32,0,0,Teacher,Education,"Batavia, New York",Batavia,New York,Northeast,2,13,0,Blonde,1,0,
+Lisa Gonzalez,28,0,4,Public Relations Associate,Corporate,"Boise, Idaho",Boise,Idaho,West,2,13,0,Brown,0,0,
+Ann Lueders,24,0,8,Flight Attendant,Transportation,"Phoenix, Arizona",Phoenix,Arizona,West,1,13,0,Brown,0,0,
+Dominique Carta,26,0,6,Medical Sales Rep.,Sales,"Mt. Carmel, Pennsylvania",Mt. Carmel,Pennsylvania,Northeast,1,13,0,Blonde,1,0,
+Emily,23,0,9,Casino Marketing Rep.,Marketing,"Seattle, Washington",Seattle,Washington,West,1,13,0,Blonde,1,0,
+Jackie Hickey,26,0,6,Wedding Coordinator,Retail/Services/Entrepreneur,"Springfield, Massachusetts",Springfield,Massachusetts,Northeast,1,13,0,Brown,0,0,
+Julie Dermotta,26,0,6,Teacher,Education,"Columbus, Ohio",Columbus,Ohio,Midwest,1,13,0,Black,0,0,
+Nicole Mah,25,0,7,Menswear Buyer,Retail/Services/Entrepreneur,"Calgary, Alberta",Calgary,Alberta,International,1,13,0,Black,0,0,
+Renee Simlak,36,1,4,Jewelry Designer,Arts/Entertainment,"Southfield, Michigan",Southfield,Michigan,Midwest,1,13,0,Brown,0,0,
+Shelby,23,0,9,Account Executive,Sales,"Stockton, California",Stockton,California,West,1,13,0,Blonde,1,0,
+Stacia Mann,24,0,8,Single Mother & Charity Accountant,Finance,"Orem, Utah",Orem,Utah,West,1,13,0,Brown,0,0,
+Treasure Morgan,28,0,4,Single Mother and Nurse Practitioner,Medical,"Salt Lake City, Utah",Salt Lake City,Utah,West,1,13,0,Brown,0,0,
+Vienna Girardi,23,0,8,Marketing Representative,Marketing,"Geneva, Florida",Geneva,Florida,South,9,14,1,Blonde,1,1,66
+Tenley Molzahn,25,0,6,College Admissions,Education,"Newberg, Oregon",Newberg,Oregon,West,8,14,0,Blonde,1,0,65
+Gia Allemand,26,0,5,Swimsuit Model,Arts/Entertainment,"New York, New York",New York,New York,Northeast,7,14,0,Red,0,0,65
+Ali Fedotowsky,25,0,6,Advertising Account Manager,Sales,"Williamstown, Massachusetts",Williamstown,Massachusetts,Northeast,6,14,0,Blonde,1,0,67
+Corrie Adamson,23,0,8,Wardrobe Consultant,Retail/Services/Entrepreneur,"Kissimmee, Florida",Kissimmee,Florida,South,5,14,0,Blonde,1,0,
+Ashleigh Hunt,25,0,6,Account Manager,Sales,"North Potomac, Maryland",North Potomac,Maryland,Northeast,4,14,0,Blonde,1,0,67
+Jessie Sulidis,25,0,6,Cosmetic Sales Manager,Sales,"Oakville, Ontario",Oakville,Ontario,International,4,14,0,Black,0,0,64
+Kathryn Sherlock,25,0,6,Corporate Flight Attendant,Transportation,"Lexington, Kentucky",Lexington,Kentucky,South,4,14,0,Blonde,1,0,
+Ella Nolan,30,0,1,Hair Stylist,Retail/Services/Entrepreneur,"La Follette, Tennessee",La Follette,Tennessee,South,4,14,0,Brown,0,0,
+Elizabeth Kitt (NE),29,0,2,Nanny,Retail/Services/Entrepreneur,"Imperial, Nebraska",Imperial,Nebraska,Midwest,3,14,0,Black,0,0,
+Valishia Savage,32,1,1,Homemaker,Misc,"San Bernardino, California",San Bernardino,California,West,3,14,0,Black,0,0,
+Michelle Kujawa,26,0,5,Office Manager,Corporate,"Anaheim, California",Anaheim,California,West,3,14,0,Brown,0,0,
+Ashley Elmore,29,0,2,Teacher,Education,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,Northeast,2,14,0,Black,0,0,
+Christina McCasland,25,0,6,Restaurant Manager,Restaurant,"San Diego, California",San Diego,California,West,2,14,0,Blonde,1,0,
+Rozlyn Papa,28,0,3,Model/Make-Up Artist,Arts/Entertainment,"Richmond, Virginia",Richmond,Virginia,South,2,14,0,Blonde,1,0,
+Alexa (Lex) McAllister,25,0,6,Entrepreneur,Retail/Services/Entrepreneur,"Galloway, Ohio",Galloway,Ohio,Midwest,1,14,0,Blonde,1,0,
+Caitlyn McCabe,24,0,7,Spokesmodel,Marketing,"Winfield, Illinois",Winfield,Illinois,Midwest,1,14,0,Brown,0,0,
+Channy Choch,29,0,2,Mortgage Loan Officer,Finance,"Santa Rosa, California",Santa Rosa,California,West,1,14,0,Black,0,0,
+Elizabeth Kreft (D.C.),29,0,2,"Captain, Air National Guard",Government,"Union, Kentucky",Union,Kentucky,South,1,14,0,Black,0,0,
+Emily Harkins,23,0,8,Fitness Model,Arts/Entertainment,"West Chester, Ohio",West Chester,Ohio,Midwest,1,14,0,Black,0,0,
+Kimberly Sullivan,24,0,7,NBA Dancer,Arts/Entertainment,"Norman, Oklahoma",Norman,Oklahoma,South,1,14,0,Brown,0,0,
+Kirsten Pittman,25,0,6,Waitress,Restaurant,"Aurora, Colorado",Aurora,Colorado,West,1,14,0,Blonde,1,0,
+Sheila Marie Lidner,25,0,6,Commercial Pilot,Transportation,"Scottsdale, Arizona",Scottsdale,Arizona,West,1,14,0,Blonde,1,0,
+Stephanie Mueller,24,0,7,Dance Teacher,Education,"Morris, Illinois",Morris,Illinois,Midwest,1,14,0,Brown,0,0,
+Tiana Kruzel,31,0,0,Medical Technician,Medical,"Calgary, Alberta",Calgary,Alberta,International,1,14,0,Blonde,1,0,
+Emily Maynard,25,0,13,Children's Hospital Event Planner,Corporate,"Morgantown, West Virginia",Morgantown,West Virginia,South,11,15,0,Blonde,1,1,64
+Chantal O'Brien,28,0,10,Executive Assistant,Corporate,"Mercer Island, Washington",Mercer Island,Washington,West,10,15,0,Black,0,0,
+Ashley Hebert,26,0,12,Dental Student,Student,"Madawaska, Maine",Madawaska,Maine,Northeast,9,15,0,Brown,0,0,62
+Shawntel Newton,25,0,13,Funeral Director,Retail/Services/Entrepreneur,"Chico, California",Chico,California,West,8,15,0,Brown,0,0,
+Michelle Money,30,0,8,Hair stylist,Retail/Services/Entrepreneur,"Salt Lake City, Utah",Salt Lake City,Utah,West,7,15,0,Brown,0,0,67
+Britt Billmaier,25,0,13,Food writer,Arts/Entertainment,"Woodinville, Washington",Woodinville,Washington,West,7,15,0,Blonde,1,0,
+Jackie Gordon,26,0,12,Artist,Arts/Entertainment,"Newport, Rhode Island",Newport,Rhode Island,Northeast,6,15,0,Brown,0,0,
+Alli Travis,24,0,14,Apparel merchant,Retail/Services/Entrepreneur,"Columbus, Ohio",Columbus,Ohio,Midwest,6,15,0,Black,0,0,
+Lisa Morrisey,24,0,14,Marketing Coordinator,Marketing,"Ottawa, Kansas",Ottawa,Kansas,Midwest,5,15,0,Brown,0,0,
+Marissa May,26,0,12,Sports Publicist,Arts/Entertainment,"Mesa, Arizona",Mesa,Arizona,West,5,15,0,Black,0,0,
+Ashley Spivey,26,0,12,Nanny,Retail/Services/Entrepreneur,"Ellerbe, North Carolina",Ellerbe,North Carolina,South,5,15,1,Blonde,1,0,
+Lindsay Hill,25,0,13,First grade teacher,Education,"Plano, Texas",Plano,Texas,South,4,15,0,Red,0,0,
+Meghan Merritt,30,0,8,Fashion Marketer,Marketing,"Princeton, New Jersey",Princeton,New Jersey,Northeast,4,15,0,Brown,0,0,
+Stacey Quirpel,26,0,12,Bartender,Restaurant,"Quincy, Massachusetts",Quincy,Massachusetts,Northeast,4,15,0,Black,0,0,
+Kimberly Coon,27,0,11,Marketing Coordinator,Marketing,"Orlando, Florida",Orlando,Florida,South,3,15,0,Blonde,1,0,
+Sarah Powell,27,0,11,Real Estate Broker,Real Estate,"Denver, Colorado",Denver,Colorado,West,3,15,0,Blonde,1,0,
+Madison Garton,25,0,13,Model,Arts/Entertainment,"Vail, Colorado",Vail,Colorado,West,3,15,0,Blonde,1,0,
+Keltie Colleen,28,0,10,Radio City Rockette,Arts/Entertainment,"Sherwood Park, Alberta",Sherwood Park,Alberta,International,2,15,0,Blonde,1,0,
+Melissa Schreiber,32,0,6,Waitress,Restaurant,"Westport, Connecticut",Westport,Connecticut,Northeast,2,15,0,Blonde,1,0,
+Raichel Goodyear,29,0,9,Manscaper,Retail/Services/Entrepreneur,"Fullerton, California",Fullerton,California,West,2,15,0,Black,0,0,
+Britnee,25,0,13,Paralegal,Legal,"Holland, Pennsylvania",Holland,Pennsylvania,Northeast,1,15,0,Brown,0,0,
+Cristy Caserta,30,0,8,Attorney,Legal,"Davie, Florida",Davie,Florida,South,1,15,0,Blonde,1,0,
+"Jessica ""J"" Adams",26,0,12,Operations Manager,Corporate,"Seattle, Washington",Seattle,Washington,West,1,15,0,Black,0,0,
+Jill Ruskowski,28,0,10,Sales director,Sales,"Frisco, Texas",Frisco,Texas,South,1,15,0,Black,0,0,
+Lacey Garbelman,27,0,11,Insurance agent,Retail/Services/Entrepreneur,"Tampa, Florida",Tampa,Florida,South,1,15,0,Blonde,1,0,
+Lauren Moore,26,0,12,High School Teacher,Education,"Culpeper, Virginia",Culpeper,Virginia,South,1,15,0,Blonde,1,0,
+Lisa P.,27,0,11,Sales Consultant,Sales,"Dix Hills, New York",Dix Hills,New York,Northeast,1,15,0,Blonde,1,0,
+Rebecca,30,0,8,Esthetician,Medical,"Mission Viejo, California",Mission Viejo,California,West,1,15,0,Black,0,0,
+Renee Halpin,28,0,10,Nanny,Retail/Services/Entrepreneur,"Palos Hills, Illinois",Palos Hills,Illinois,Midwest,1,15,0,Brown,0,0,
+Sarah Ledtke,25,0,13,Musical Theatre Performer,Arts/Entertainment,"Saginaw, Michigan",Saginaw,Michigan,Midwest,1,15,0,Brown,0,0,
+Courtney Robertson,28,0,0,Model,Arts/Entertainment,"Scottsdale, Arizona",Scottsdale,Arizona,West,11,16,0,Brown,0,1,69
+Lindzi Cox,27,0,1,Business development manager,Sales,"Newcastle, Washington",Newcastle,Washington,West,10,16,1,Brown,0,0,
+Nicki Sterling,26,0,2,Dental hygienist,Medical,"Hurst, Texas",Hurst,Texas,South,9,16,0,Brown,0,0,
+Kacie Boguskie,24,0,4,Administrative assistant,Corporate,"Clarksville, Tennessee",Clarksville,Tennessee,South,8,16,0,Brown,0,0,
+Emily O'Brien,27,0,1,PhD Student,Student,"Chapel Hill, North Carolina",Chapel Hill,North Carolina,South,7,16,0,Blonde,1,0,66
+Rachel Truehart,27,0,1,Fashion sales representative,Sales,"Southampton, Massachusetts",Southampton,Massachusetts,Northeast,7,16,0,Blonde,1,0,
+Jamie Otis,25,0,3,Registered nurse,Medical,"Dryden, New York",Dryden,New York,Northeast,6,16,0,Brown,0,0,
+Casey Shteamer,26,0,2,Trading clerk,Finance,"Leawood, Kansas",Leawood,Kansas,Midwest,6,16,0,Blonde,1,0,
+Blakeley Jones,33,1,5,VIP cocktail waitress,Restaurant,"Rutherfordton, North Carolina",Rutherfordton,North Carolina,South,6,16,0,Brown,0,0,
+Jennifer Fritsch,28,0,0,Accountant,Finance,"Cache, Oklahoma",Cache,Oklahoma,South,5,16,0,Brown,0,0,
+Elyse Myers,24,0,4,Personal trainer,Retail/Services/Entrepreneur,"Chicago, Illinois",Chicago,Illinois,Midwest,5,16,0,Black,0,0,
+Monica Spannbauer,33,1,5,Dental consultant,Medical,"Yuba, California",Yuba,California,West,4,16,0,Blonde,1,0,
+Samantha Levey,26,0,2,Advertising account manager,Sales,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,Northeast,4,16,0,Blonde,1,0,
+Erika Uhlig,23,0,5,Law student,Student,"Charlottesville, Virginia",Charlottesville,Virginia,South,3,16,0,Blonde,1,0,
+Jaclyn Swartz,27,0,1,Advertising account manager,Sales,"Newton, Massachusetts",Newton,Massachusetts,,3,16,0,Brown,0,0,
+Brittney Schreiner,26,0,2,Medical sales representative,Sales,"Colorado Springs, Colorado",Colorado Springs,Colorado,West,3,16,0,Blonde,1,0,
+Jenna Burke,27,0,1,Blogger,Arts/Entertainment,"Loveland, Ohio",Loveland,Ohio,Midwest,2,16,0,Blonde,1,0,
+Shawn Reynolds,28,0,0,Financial advisor,Finance,"Cincinnati, Ohio",Cincinnati,Ohio,Midwest,2,16,0,Brown,0,0,
+Amber Bacon,23,0,5,Labor and delivery nurse,Medical,"Port Coquitlam, British Columbia",Port Coquitlam,British Columbia,International,1,16,0,Red,0,0,
+Amber Tierney,28,0,0,Critical care nurse,Medical,"Waverly, Nebraska",Waverly,Nebraska,Midwest,1,16,0,Brown,0,0,
+Anna Snowball,25,0,3,Student,Student,"Detroit, Michigan",Detroit,Michigan,Midwest,1,16,0,Blonde,1,0,
+Dianna Martinez,30,1,2,Nonprofit director,Corporate,"San Gabriel, California",San Gabriel,California,West,1,16,0,Brown,0,0,
+Holly Johnson,34,1,6,Pharmaceutical sales representative,Sales,"Salyersville, Kentucky",Salyersville,Kentucky,South,1,16,0,Blonde,1,0,
+Lyndsie James,29,1,1,Internet entrepreneur,Retail/Services/Entrepreneur,"London, England",London,England,International,1,16,0,Blonde,1,0,
+Shira Astrof,35,1,7,Actress,Arts/Entertainment,"Massapequa Park, New York",Massapequa Park,New York,Northeast,1,16,0,Brown,0,0,
+Catherine Giudici,26,0,2,Graphic Designer,Arts/Entertainment,"Seattle, Washington",Seattle,Washington,West,11,17,0,Brown,0,1,63
+Lindsay Yenter,24,0,4,Substitute Teacher,Education,"Fort Bragg, North Carolina",Fort Bragg,North Carolina,South,10,17,0,Brown,0,0,61
+AshLee Frazier,32,1,4,Personal Organizer,Retail/Services/Entrepreneur,"Houston, Texas",Houston,Texas,South,9,17,0,Brown,0,0,63
+Desiree Hartsock,26,0,2,Bridal Stylist,Retail/Services/Entrepreneur,"Northglenn, Colorado",Northglenn,Colorado,West,8,17,0,Brown,0,0,66
+Lesley Murphy,24,0,4,Political Consultant,Government,"Fort Smith, Arkansas",Fort Smith,Arkansas,South,7,17,0,Blonde,1,0,68
+Tierra LiCausi,24,0,4,Leasing Consultant,Real Estate,"Las Vegas, Nevada",Las Vegas,Nevada,West,7,17,1,Brown,0,0,
+Daniella McBride,24,0,4,Commercial Casting Associate,Arts/Entertainment,"Belmont, California",Belmont,California,West,6,17,0,Blonde,1,0,
+Selma Alameri,29,1,1,Real Estate Dealer,Real Estate,"Borrego Springs, California",Borrego Springs,California,West,6,17,0,Brown,0,0,
+Sarah Herron,26,0,2,Advertising Executive,Marketing,"Evergreen, Colorado",Evergreen,Colorado,West,6,17,0,Blonde,1,0,
+Robyn Howard,24,0,4,Oil Field Account Manager,Sales,"Topeka, Kansas",Topeka,Kansas,Midwest,5,17,0,Black,0,0,
+Jackie Parr,25,0,3,Cosmetics Consultant,Arts/Entertainment,"Ormond Beach, Florida",Ormond Beach,Florida,South,5,17,0,Brown,0,0,
+Amanda Meyer,26,0,2,Fit Model,Arts/Entertainment,"Bakersfield, California",Bakersfield,California,West,4,17,0,Brown,0,0,
+Leslie Hughes,28,0,0,Poker Dealer,Retail/Services/Entrepreneur,"Ruskin, Florida",Ruskin,Florida,South,4,17,0,Black,0,0,
+Kristy Kaminski,25,0,3,Model,Arts/Entertainment,"Darien, Wisconsin",Darien,Wisconsin,Midwest,3,17,0,Brown,0,0,
+Taryn Renee Daniels,30,1,2,Health Club Manager,Retail/Services/Entrepreneur,"Troutdale, Oregon",Troutdale,Oregon,West,3,17,0,Blonde,1,0,
+Kacie Boguskie,25,0,3,Administrative Assistant,Corporate,"Clarksville, Tennessee",Clarksville,Tennessee,South,3,17,0,Brown,0,0,
+Brooke Burchette,25,0,3,Community Organizer,Misc,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,Northeast,2,17,0,Brown,0,0,
+Diana Weeks Willardson,31,1,3,Salon Owner,Retail/Services/Entrepreneur,"Sandy, Utah",Sandy,Utah,West,2,17,0,Brown,0,0,
+Katie Levans,27,0,1,Yoga Instructor,Retail/Services/Entrepreneur,"Woodstock, Illinois",Woodstock,Illinois,Midwest,2,17,0,Brown,0,0,
+Ashley Harper,25,0,3,Fashion Model,Arts/Entertainment,"Garner, North Carolina",Garner,North Carolina,South,1,17,0,Black,0,0,
+Ashley Palenkas,28,0,0,Hair Stylist,Retail/Services/Entrepreneur,"Macomb, Michigan",Macomb,Michigan,Midwest,1,17,0,Blonde,1,0,
+Kelly Dutton,28,0,0,Cruise Ship Entertainer,Arts/Entertainment,"Chattanooga, Tennessee",Chattanooga,Tennessee,South,1,17,0,Blonde,1,0,
+Keriann Miranda,29,1,1,Entrepreneur,Retail/Services/Entrepreneur,"Agoura Hills, California",Agoura Hills,California,West,1,17,0,Blonde,1,0,
+Lacey Latka,24,0,4,Graduate Student,Student,"Stevenson Ranch, California",Stevenson Ranch,California,West,1,17,0,Blonde,1,0,
+Lauren Marchetti,27,0,1,Journalist,Arts/Entertainment,"Cranston, Rhode Island",Cranston,Rhode Island,Northeast,1,17,0,Blonde,1,0,
+Paige Vigil,25,0,3,Jumbotron Operator,Retail/Services/Entrepreneur,"Minnetonka, Minnesota",Minnetonka,Minnesota,Midwest,1,17,0,Brown,0,0,
+Nikki Ferrell,26,0,6,Pediatric Nurse,Medical,"Kearney, Missouri",Kearney,Missouri,Midwest,11,18,0,Blonde,1,1,69
+Clare Crawley,32,0,0,Hairstylist,Retail/Services/Entrepreneur,"Sacramento, California",Sacramento,California,West,10,18,0,Blonde,1,0,65
+Andi Dorfman,26,0,6,Assistant District Attorney,Legal,"Buckhead, Georgia",Buckhead,Georgia,South,9,18,0,Brown,0,0,65
+Renee Oteri,32,0,0,Real Estate Agent,Real Estate,"Martha's Vineyard, Massachusetts",Martha's Vineyard,Massachusetts,Northeast,8,18,0,Brown,0,0,63
+Chelsie Webster,24,0,8,Science Educator,Education,"Lexington, Ohio",Lexington,Ohio,Midwest,7,18,0,Blonde,1,0,
+Sharleen Joynt,29,0,3,Opera Singer,Arts/Entertainment,"Ottawa, Ontario",Ottawa,Ontario,International,7,18,1,Brown,0,0,
+Kat Hurd,29,0,3,Medical Sales Representative/NBA Dancer,Sales,"Iowa City, Iowa",Iowa City,Iowa,Midwest,6,18,0,Blonde,1,0,
+Cassandra Ferguson,22,0,10,Former NBA Dancer,Arts/Entertainment,"Shelby Charter Township, Michigan",Shelby Charter Township,Michigan,Midwest,6,18,0,Brown,0,0,
+Alli Restko,26,0,6,Nanny,Retail/Services/Entrepreneur,"Orland Park, Illinois",Orland Park,Illinois,Midwest,5,18,0,Brown,0,0,
+Danielle Ronco,25,0,7,Psychiatric Nurse,Medical,"Litchfield, Illinois",Litchfield,Illinois,Midwest,5,18,0,Brown,0,0,
+Kelly Travis,27,0,5,Dog Lover,Misc,"Conyers, Georgia",Conyers,Georgia,South,5,18,0,Brown,0,0,
+Elise Mosca,27,0,5,First Grade Teacher,Education,"Forty Fort, Pennsylvania",Forty Fort,Pennsylvania,Northeast,4,18,0,Blonde,1,0,
+Lauren Solomon,26,0,6,Music Composer,Arts/Entertainment,"Austin, Texas",Austin,Texas,South,4,18,0,Black,0,0,
+Christy Hansen,24,0,8,Marketing Manager,Marketing,"Aurora, Illinois",Aurora,Illinois,Midwest,3,18,0,Blonde,1,0,
+"Lucinda ""Lucy"" Aragon",25,0,7,Free Spirit,Misc,"Santa Barbara, California",Santa Barbara,California,West,3,18,0,Brown,0,0,
+Amy Long,27,0,5,Local News Reporter,Arts/Entertainment,"Clermont, Florida",Clermont,Florida,South,2,18,0,Brown,0,0,
+Chantel Forrest,27,0,5,Account Manager,Sales,"Miami, Florida",Miami,Florida,South,2,18,0,Black,0,0,
+Victoria Lima,24,0,8,Legal Assistant,Legal,"Porto Alegre, Brazil",Porto Alegre,Brazil,International,2,18,0,Black,0,0,
+Alexis Morgado,24,0,8,Communications Director/NHL Ice Girl,Arts/Entertainment,"Tampa, Florida",Tampa,Florida,South,1,18,0,Brown,0,0,
+Amy Jokinen,31,0,1,Massage Therapist,Retail/Services/Entrepreneur,"Apopka, Florida",Apopka,Florida,South,1,18,0,Brown,0,0,
+Ashley Poe,25,0,7,Grade School Teacher,Education,"Roanoke, Texas",Roanoke,Texas,South,1,18,0,Black,0,0,
+Christine Llano,23,0,9,Police Support Specialist,Government,"Miami, Florida",Miami,Florida,South,1,18,0,Blonde,1,0,
+Kylie Lewis,23,0,9,Interior Designer,Retail/Services/Entrepreneur,"Rockford, Illinois",Rockford,Illinois,Midwest,1,18,0,Red,0,0,
+Lacy Faddoul,25,0,7,Nursing Home Owner,Medical,"Antelope Acres, California",Antelope Acres,California,West,1,18,0,Blonde,1,0,
+Lauren Higginson,25,0,7,Mineral Coordinator,Corporate,"Edmond, Oklahoma",Edmond,Oklahoma,South,1,18,0,Brown,0,0,
+Maggie Gantt,25,0,7,Personal Banker,Finance,"Wagener, South Carolina",Wagener,South Carolina,South,1,18,0,Brown,0,0,
+Valerie Eredia,26,0,6,Personal Trainer,Retail/Services/Entrepreneur,"Sutter, California",Sutter,California,West,1,18,0,Black,0,0,
+Whitney Bischoff,29,0,4,Fertility Nurse,Medical,"Louisville, Kentucky",Louisville,Kentucky,South,11,19,0,Blonde,1,1,67
+Becca Tilley,25,0,8,Chiropractic Assistant,Medical,"Shreveport, Louisiana",Shreveport,Louisiana,South,10,19,0,Brown,0,0,65
+Kaitlyn Bristowe,29,0,4,Dance Instructor,Retail/Services/Entrepreneur,"Leduc, Alberta",Leduc,Alberta,International,9,19,0,Brown,0,0,64
+Jade Roper,28,0,5,Cosmetics Developer,Corporate,"Gering, Nebraska",Gering,Nebraska,Midwest,8,19,0,Black,0,0,64
+Carly Waddell,29,0,4,Cruise Ship Singer,Arts/Entertainment,"Arlington, Texas",Arlington,Texas,South,7,19,0,Blonde,1,0,64
+Britt Nilsson,27,0,6,Waitress,Restaurant,"Wolcott Mills, Michigan",Wolcott Mills,Michigan,Midwest,7,19,1,Blonde,1,0,65
+Megan Bell,24,0,9,Make-Up Artist,Retail/Services/Entrepreneur,"Nashville, Tennessee",Nashville,Tennessee,South,6,19,0,Blonde,1,0,64
+Kelsey Poe,28,0,5,Guidance Counselor,Education,"Hudsonville, Michigan",Hudsonville,Michigan,Midwest,6,19,0,Black,0,0,65
+Ashley Iaconetti,26,0,7,Nanny/Freelance Journalist,Arts/Entertainment,"Great Falls, Virginia",Great Falls,Virginia,South,6,19,0,Black,0,0,66
+Mackenzie Deonigi,21,0,12,Dental Assistant,Medical,"Maple Valley, Washington",Maple Valley,Washington,West,5,19,0,Brown,0,0,64
+Samantha Steffen,27,0,6,Fashion Designer,Arts/Entertainment,"Indianapolis, Indiana",Indianapolis,Indiana,Midwest,5,19,0,Black,0,0,65
+Ashley Salter,24,0,9,Hair Stylist,Retail/Services/Entrepreneur,"Vinings, Georgia",Vinings,Georgia,South,4,19,0,Blonde,1,0,67
+Juelia Kinney,30,0,3,Esthetician,Medical,"Beaverton, Oregon",Beaverton,Oregon,West,4,19,0,Blonde,1,0,65
+Nikki Delventhal,26,0,7,Former NFL Cheerleader,Arts/Entertainment,"Hasbrouck Heights, New Jersey",Hasbrouck Heights,New Jersey,Northeast,4,19,0,Black,0,0,68
+Jillian Anderson,25,0,8,News Producer,Arts/Entertainment,"Howland, Ohio",Howland,Ohio,Midwest,4,19,0,Black,0,0,62
+Amber James,29,0,4,Bartender,Restaurant,"Kankakee, Illinois",Kankakee,Illinois,Midwest,3,19,0,Black,0,0,63
+Tracy Darakis,29,0,4,Fourth Grade Teacher,Education,"Wellington, Florida",Wellington,Florida,South,3,19,0,Black,0,0,64
+Trina Scherenberg,33,0,0,Special Education Teacher,Education,"Algonquin, Illinois",Algonquin,Illinois,Midwest,3,19,0,Blonde,1,0,65
+Alissa Giambrone,24,0,9,Flight Attendant,Transportation,"Hamilton, New Jersey",Hamilton,New Jersey,Northeast,2,19,0,Black,0,0,64
+Jordan Branch,24,0,9,Student,Student,"Windsor, Colorado",Windsor,Colorado,West,2,19,0,Blonde,1,0,65
+Kimberly Sherbach,28,0,5,Yoga Instructor,Retail/Services/Entrepreneur,"Wantagh, New York",Wantagh,New York,Northeast,2,19,0,Black,0,0,67
+Tandra Steiner,30,0,3,Executive Assistant,Corporate,"Sandy, Utah",Sandy,Utah,West,2,19,0,Blonde,1,0,71
+Tara Eddings,26,0,7,Sport Fishing Enthusiast,Misc,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,South,2,19,0,Blonde,1,0,70
+Amanda Goerlitz,24,0,9,Ballet Teacher,Retail/Services/Entrepreneur,"Lake in the Hills, Illinois",Lake in the Hills,Illinois,Midwest,1,19,0,Blonde,1,0,64
+Bo Stanley,25,0,8,Plus-Size Model,Arts/Entertainment,"Carpinteria, California",Carpinteria,California,West,1,19,0,Blonde,1,0,69
+Brittany Fetkin,26,0,7,WWE Diva-in-Training,Arts/Entertainment,"Temecula, California",Temecula,California,West,1,19,0,Brown,0,0,64
+Kara Wilson,25,0,8,High School Soccer Coach,Education,"Brownsville, Kentucky",Brownsville,Kentucky,South,1,19,0,Blonde,1,0,67
+Michelle Davis,25,0,8,Wedding Cake Baker,Retail/Services/Entrepreneur,"Provo, Utah",Provo,Utah,West,1,19,0,Brown,0,0,63
+Nicole Meacham,31,0,2,Real Estate Agent,Real Estate,"Scottsdale, Arizona",Scottsdale,Arizona,West,1,19,0,Red,0,0,
+Reegan Cornwell,28,0,5,Cadaver Tissue Saleswoman,Sales,"Manhattan Beach, California",Manhattan Beach,California,West,1,19,0,Blonde,1,0,66
+Lauren Bushnell,25,0,1,Flight Attendant,Transportation,"West Linn, Oregon",West Linn,Oregon,West,11,20,0,Blonde,1,1,67
+"Joelle ""JoJo"" Fletcher",24,0,2,Real Estate Developer,Real Estate,"Dallas, Texas",Dallas,Texas,South,10,20,0,Brown,0,0,64
+Caila Quinn,24,0,2,Software Sales Representative,Sales,"Hudson, Ohio",Hudson,Ohio,Midwest,9,20,0,Brown,0,0,64
+Amanda Stanton,25,0,1,Esthetician,Medical,"Rancho Santa Margarita, California",Rancho Santa Margarita,California,West,8,20,0,Blonde,1,0,
+Becca Tilley,26,0,0,Chiropractic Assistant,Medical,"Shreveport, Louisiana",Shreveport,Louisiana,South,7,20,0,Blonde,1,0,65
+Emily Ferguson,23,0,3,Waitress,Restaurant,"Las Vegas, Nevada",Las Vegas,Nevada,West,7,20,0,Blonde,1,0,64
+Lauren Himle,25,0,1,Kindergarten Teacher,Education,"Dexter, Michigan",Dexter,Michigan,Midwest,6,20,0,Blonde,1,0,
+Olivia Caridi,23,0,3,Former News Anchor,Arts/Entertainment,"Bristol, Virginia",Bristol,Virginia,South,6,20,1,Blonde,1,0,68
+Leah Block,25,0,1,Event Planner,Retail/Services/Entrepreneur,"Greenwood Village, Colorado",Greenwood Village,Colorado,West,6,20,0,Blonde,1,0,
+Jennifer Saviano,25,0,1,Small Business Owner,Retail/Services/Entrepreneur,"Lauderdale Lakes, Florida",Lauderdale Lakes,Florida,South,5,20,0,Black,0,0,
+Jubilee Sharpe,24,0,2,War Veteran,Government,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,South,5,20,0,Black,0,0,64
+Amber James,30,1,4,Bartender,Restaurant,"Kankakee, Illinois",Kankakee,Illinois,Midwest,4,20,0,Blonde,1,0,63
+Rachel Tchen,23,0,3,Unemployed,Misc,"Little Rock, Arkansas",Little Rock,Arkansas,South,4,20,0,Brown,0,0,
+Haley Ferguson,23,0,3,Waitress,Restaurant,"Las Vegas, Nevada",Las Vegas,Nevada,West,4,20,0,Blonde,1,0,
+Jami Letain,23,0,3,Bartender,Restaurant,"St. Albert, Alberta",St. Albert,Alberta,International,3,20,0,Brown,0,0,
+Shushanna Mkrtychyan,27,1,1,Mathematician,Misc,"Salt Lake City, Utah",Salt Lake City,Utah,West,3,20,0,Brown,0,0,
+Lace Morris,25,0,1,Real Estate Agent,Real Estate,"Denver, Colorado",Denver,Colorado,West,3,20,0,Brown,0,0,
+"Amanda ""Mandi"" Kremer",28,1,2,Dentist,Medical,"Portland, Oregon",Portland,Oregon,West,2,20,0,Blonde,1,0,
+"Jacqueline ""Jackie"" Dion",23,0,3,Gerontologist,Medical,"Newport Beach, California",Newport Beach,California,West,2,20,0,Brown,0,0,
+Samantha Passmore,26,0,0,Attorney,Legal,"New Smyrna Beach, Florida",New Smyrna Beach,Florida,South,2,20,0,Blonde,1,0,
+"Lauren ""LB"" Barr",23,0,3,Fashion Buyer,Retail/Services/Entrepreneur,"Stillwater, Oklahoma",Stillwater,Oklahoma,South,2,20,0,Brown,0,0,
+Breanne Rice,30,1,4,Nutritional Therapist,Medical,"Seattle, Washington",Seattle,Washington,West,1,20,0,Black,0,0,
+"Isabel ""Izzy"" Goodkind",24,0,2,Graphic Designer,Arts/Entertainment,"Branford, Connecticut",Branford,Connecticut,Northeast,1,20,0,Black,0,0,
+Jessica Moser,23,0,3,Accountant,Finance,"Boca Raton, Florida",Boca Raton,Florida,South,1,20,0,Brown,0,0,
+Laura Esselman,24,0,2,Account Executive,Sales,"Louisville, Kentucky",Louisville,Kentucky,South,1,20,0,Red,0,0,
+Lauren Russell,26,0,0,Math Teacher,Education,"Houston, Texas",Houston,Texas,South,1,20,0,Brown,0,0,
+Maegan Miller,30,1,4,Cowgirl,Agriculture,"Visalia, California",Visalia,California,West,1,20,0,Black,0,0,
+Tiara Soleim,27,1,1,Chicken Enthusiast,Agriculture,"Redmond, Washington",Redmond,Washington,West,1,20,0,Blonde,1,0,
+Vanessa,29,0,7,Special Education Teacher,Education,"Montreal, Quebec, Canada",Montreal,Quebec,International,11,21,0,Brown,0,0,63.5
+Raven,25,0,11,Fashion Boutique Owner,Retail/Services/Entrepreneur,"Hoxie, AR",Hoxie,Arkansas,South,10,21,0,Black,0,0,66
+Rachel,31,0,5,Attorney,Legal,"Dallas, TX",Dallas,Texas,South,9,21,1,Black,0,0,64
+Corinne,24,0,12,Business Owner,Retail/Services/Entrepreneur,"Miami, FL",Miami,Florida,South,8,21,0,Blonde,1,0,61
+Kristina,24,0,12,Dental Hygienist,Medical,"Lexington, KY",Lexington,Kentucky,South,7,21,0,Brown,0,0,62
+Danielle M.,31,0,5,Neonatal Nurse,Medical,"Nashville, TN",Nashville,Tennessee,South,7,21,0,Blonde,1,0,70
+Jasmine G.,29,0,7,Pro Basketball Dancer,Arts/Entertainment,"San Francisco, CA",San Francisco,California,West,6,21,0,Black,0,0,67
+Danielle L.,27,0,9,Small Business Owner,Retail/Services/Entrepreneur,"Los Angeles, CA",Los Angeles,California,West,6,21,0,Brown,0,0,65
+Taylor,23,0,13,Mental Health Counselor,Medical,"Seattle, WA",Seattle,Washington,West,5,21,0,Brown,0,0,64
+Josephine,24,0,12,Registered Nurse,Medical,"Santa Cruz, CA",Santa Cruz,California,West,5,21,0,Blonde,1,0,67.75
+Jaimi,28,0,8,Chef,Restaurant,"New Orleans, LA",New Orleans,Louisiana,South,5,21,0,Blonde,1,0,62
+Alexis,23,0,13,Aspiring Dolphin Trainer,Arts/Entertainment,"Secaucus, NJ",Secaucus,New Jersey,Northeast,5,21,0,Black,0,0,66
+Sarah,26,0,10,Grade School Teacher,Education,"Newport Beach, CA",Newport Beach,California,West,4,21,0,Blonde,1,0,65
+Astrid,26,0,10,Plastic Surgery Office Manager,Corporate,"Tampa, FL",Tampa,Florida,South,4,21,0,Brown,0,0,67.5
+Dominique,25,0,11,Restaurant Server,Restaurant,"Los Angeles, CA",Los Angeles,California,West,3,21,0,Black,0,0,64
+Christen,25,0,11,Wedding Videographer,Retail/Services/Entrepreneur,"Tulsa, OK",Tulsa,Oklahoma,South,3,21,0,Brown,0,0,65
+Brittany,26,0,10,Travel Nurse,Medical,"Santa Monica, CA",Santa Monica,California,West,3,21,0,Brown,0,0,62
+Liz,29,0,7,Doula,Retail/Services/Entrepreneur,"Las Vegas, NV",Las Vegas,Nevada,West,2,21,0,Brown,0,0,64
+Lacey,25,0,11,Digital Marketing Manager,Marketing,"Manhattan, NY",Manhattan,New York,Northeast,2,21,0,Blonde,1,0,63
+Hailey,23,0,13,Photographer,Arts/Entertainment,"Vancouver, British Columbia, Canada",Vancouver,British Columbia,International,2,21,0,Blonde,1,0,67
+Elizabeth,24,0,12,Marketing Manager,Marketing,"Dallas, TX",Dallas,Texas,South,2,21,0,Blonde,1,0,67
+Susannah,26,0,10,Account Manager,Sales,"San Diego, CA",San Diego,California,West,1,21,0,Brown,0,0,66
+Olivia,25,0,11,Apparel Sales Representative,Sales,"Anchorage, AK",Anchorage,Arkansas,South,1,21,0,Black,0,0,67
+Michelle,24,0,12,Food Truck Owner,Restaurant,"Los Angeles, CA",Los Angeles,California,West,1,21,0,Brown,0,0,61
+Lauren,30,0,6,Law School Graduate,Legal,"Naples, FL",Naples,Florida,South,1,21,0,Blonde,1,0,67
+Jasmine B.,25,0,11,Flight Attendant,Transportation,"Tacoma, WA",Tacoma,Washington,West,1,21,0,Black,0,0,62.5
+Ida Marie,23,0,13,Sales Manager,Sales,"Harlingen, TX",Harlingen,Texas,South,1,21,0,Brown,0,0,68
+Briana,28,0,8,Surgical Unit Nurse,Medical,"Salt Lake City, UT",Salt Lake City,Utah,West,1,21,0,Brown,0,0,64
+Angela,26,0,10,Model,Arts/Entertainment,"Greenville, SC",Greenville,South Carolina,South,1,21,0,Brown,0,0,67
+Whitney,25,0,11,Pilates Instructor,Retail/Services/Entrepreneur,"Chanhassen, MN",Chanhassen,Minnesota,Midwest,6,21,0,Brown,0,0,68
+Becca Kufrin,27,0,9,Publicist,Corporate,"Prior Lake, Minnesota",Prior Lake,Minnesota,Midwest,11,22,0,Brown,0,1,67
+Lauren Burnham,25,0,11,Technology Salesperson,Sales,"Virginia Beach, Virginia",Virginia Beach,Virginia,South,10,22,0,Blonde,1,0,65
+Kendall Long,26,0,10,Creative Director,Corporate,"Santa Clarita, California",Santa Clarita,California,West,9,22,0,Blonde,1,0,66
+Tia Booth,26,0,10,Physical Therapist,Medical,"Weiner, Arkansas",Weiner,Arkansas,South,8,22,0,Brown,0,0,67
+Bekah Martinez,22,0,14,Nanny,Retail/Services/Entrepreneur,"Fresno, California",Fresno,California,West,7,22,0,Black,0,0,65
+Seinne Fleming,27,0,9,Commercial Real Estate Manager,Real Estate,"Long Beach, California",Long Beach,California,West,7,22,0,Black,0,0,64
+Jacqueline Trumbull,26,0,10,Real Estate Coordinator,Real Estate,"Morgantown, West Virginia",Morgantown,West Virginia,South,7,22,0,Brown,0,0,65
+Chelsea Roy,29,0,7,Real Estate Executive Assistant,Real Estate,"South Portland, Maine",South Portland,Maine,Northeast,6,22,1,Blonde,1,0,
+Jenna Cooper,28,0,8,Social Media Manager,Corporate,"Upland, Indiana",Upland,Indiana,Midwest,6,22,0,Blonde,1,0,
+Krystal Nielson,30,0,6,Fitness Coach,Retail/Services/Entrepreneur,"Missoula, Montana",Missoula,Montana,West,6,22,0,Blonde,1,0,
+Ashley Luebke,25,0,11,Real Estate Agent,Real Estate,"West Palm Beach, Florida",West Palm Beach,Florida,South,5,22,0,Black,0,0,
+Maquel Cooper,23,0,13,Photographer,Arts/Entertainment,"American Fork, Utah",American Fork,Utah,West,5,22,0,Blonde,1,0,
+Marikh Mathias,27,0,9,Restaurant Owner,Restaurant,"Salt Lake City, Utah",Salt Lake City,Utah,West,5,22,0,Black,0,0,
+Brittany Taylor,30,0,6,Tech Recruiter,Sales,"Belton, South Carolina",Belton,South Carolina,South,4,22,0,Brown,0,0,
+Caroline Lunny,26,0,10,Realtor,Real Estate,"Holliston, Massachusetts",Holliston,Massachusetts,Northeast,4,22,0,Brown,0,0,
+Bibiana Julian,30,0,6,Executive Assistant,Corporate,"Miami, Florida",Miami,Florida,South,3,22,0,Black,0,0,
+Annaliese Puccini,32,0,4,Event Designer,Retail/Services/Entrepreneur,"San Mateo, California",San Mateo,California,West,3,22,0,Blonde,1,0,
+Lauren Schleyer,31,0,5,Social Media Manager,Corporate,"Dallas, Texas",Dallas,Texas,South,3,22,0,Blonde,1,0,
+"Jennifer ""Jenny"" Delaney",25,0,11,Graphic Designer,Arts/Entertainment,"Northbrook, Illinois",Northbrook,Illinois,Midwest,2,22,0,Blonde,1,0,
+Lauren Griffin,26,0,10,Executive Recruiter,Sales,"Indianapolis, Indiana",Indianapolis,Indiana,Midwest,2,22,0,Black,0,0,
+Valerie Biles,25,0,11,Server,Restaurant,"Nashville, Tennessee",Nashville,Tennessee,South,2,22,0,Black,0,0,
+"Alison ""Ali"" Harrington",27,0,9,Personal Stylist,Retail/Services/Entrepreneur,"Lawton, Oklahoma",Lawton,Oklahoma,South,1,22,0,Blonde,1,0,
+Amber Wilkerson,29,0,7,Business Owner,Retail/Services/Entrepreneur,"Denver, Colorado",Denver,Colorado,West,1,22,0,Blonde,1,0,
+"Brianna ""Bri"" Amaranthus",25,0,11,Sports Reporter,Journalist,"Grants Pass, Oregon",Grants Pass,Oregon,West,1,22,0,Black,0,0,
+Brittane Johnson,27,0,9,Marketing Manager,Corporate,"San Diego, California",San Diego,California,West,1,22,0,Black,0,0,
+Jessica Carroll,26,0,10,Television Host,Journalist,"Calgary, Alberta, Canada",Calgary,Alberta,International,1,22,0,Blonde,1,0,
+Lauren Jarreau,33,0,3,Recent Master's Graduate,Student,"New Roads, Louisiana",New Roads,Louisiana,South,1,22,0,Blonde,1,0,
+Nysha Norris,30,0,6,Orthopedic Nurse,Medical,"Anderson, South Carolina",Anderson,South Carolina,South,1,22,0,Brown,0,0,
+Olivia Goethals,23,0,13,Marketing Associate,Corporate,"Geneseo, Illinois",Geneseo,Illinois,Midwest,1,22,0,Black,0,0,
+Cassie Randolph,23,0,3,Speech Pathologist,Medical,"Huntington Beach, California",Huntington Beach,California,West,10,23,0,Blonde,1,1,68
+Hannah Godwin,23,0,3,Content Creator,Arts/Entertainment,"Hoover, Alabama",Hoover,Alabama,South,9,23,1,Blonde,1,0,67
+Tayshia Adams,28,1,2,Phlebotomist,Medical,"Santa Ana, California",Santa Ana,California,West,9,23,0,Black,0,0,65
+Caelynn Miller-Keyes,23,0,3,Miss North Carolina USA 2018,Arts/Entertainment,"Falmouth, Virginia",Falmouth,Virginia,South,8,23,0,Brown,0,0,66
+Kirpa Sudick,26,0,0,Dental Hygienist,Medical,"Whittier, California",Whittier,California,West,7,23,0,Brown,0,0,
+Heather Martin,23,0,3,Fashion Student,Student,"Carlsbad, California",Carlsbad,California,West,7,23,0,Blonde,1,0,
+Hannah Brown,24,0,2,Miss Alabama USA 2018,Arts/Entertainment,"Northport, Alabama",Northport,Alabama,South,7,23,0,Blonde,1,0,
+Katie Morton,26,0,0,Medical Sales Representative,Sales,"Oviedo, Florida",Oviedo,Florida,South,6,23,0,Black,0,0,
+Demi Burnett,23,0,3,Interior Designer,Retail/Services/Entrepreneur,"Red Oak, Texas",Red Oak,Texas,South,6,23,0,Blonde,1,0,
+Sydney Lotuaco,27,1,1,NBA Dancer,Arts/Entertainment,"Virginia Beach, Virginia",Virginia Beach,Virginia,South,6,23,0,Black,0,0,
+Nicole Lopez-Alvar,25,0,1,Social Media Coordinator,Corporate,"Miami, Florida",Miami,Florida,South,5,23,0,Brown,0,0,
+Onyeka Ehie,24,0,2,IT Risk Consultant,Corporate,"Manhattan, Kansas",Manhattan,Kansas,Midwest,5,23,0,Black,0,0,
+Elyse Dehlbom,31,1,5,Makeup Artist,Arts/Entertainment,"Soldotna, Alaska",Soldotna,Alaska,West,5,23,0,Red,0,0,
+Courtney Curtis,23,0,3,Caterer,Restaurant,"McDonough, Georgia",McDonough,Georgia,South,4,23,0,Black,0,0,
+Tracy Shapoff,31,1,5,Wardrobe Stylist,Arts/Entertainment,"Rochester, New York",Rochester,New York,Northeast,4,23,0,Black,0,0,
+"Brianna ""Bri"" Barnes",24,0,2,Model,Arts/Entertainment,"Los Angeles, California",Los Angeles,California,West,3,23,0,Blonde,1,0,
+Catherine Agro,26,0,0,DJ,Arts/Entertainment,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,South,3,23,0,Blonde,1,0,
+Nina Bartula,30,1,4,Sales Account Manager,Sales,"Raleigh, North Carolina",Raleigh,North Carolina,South,3,23,0,Blonde,1,0,
+Caitlin Clemmens,25,0,1,Realtor,Real Estate,"Toronto, Ontario",Toronto,Ontario,International,3,23,0,Brown,0,0,
+Alex Blumberg,29,1,3,Dog Rescuer,Retail/Services/Entrepreneur,"Vancouver, British Columbia",Vancouver,British Columbia,International,2,23,0,Brown,0,0,
+Angelique Sherman,28,1,2,Marketing Salesperson,Sales,"Hamilton, New Jersey",Hamilton,New Jersey,Northeast,2,23,0,Black,0,0,
+Annie Reardon,23,0,3,Financial Associate,Finance,"Mequon, Wisconsin",Mequon,Wisconsin,Midwest,2,23,0,Blonde,1,0,
+Erika McNutt,25,0,1,Recruiter,Sales,"Encinitas, California",Encinitas,California,West,2,23,0,Blonde,1,0,
+Alex Dillon,23,0,3,IT Account Manager,Corporate,"Boston, Massachusetts",Boston,Massachusetts,Northeast,1,23,0,Brown,0,0,
+Devin Gooden,23,0,3,Broadcast Journalist,Journalist,"Atlanta, Georgia",Atlanta,Georgia,South,1,23,0,Black,0,0,
+Erin Landry,28,1,2,Home improvement employee,Retail/Services/Entrepreneur,"Plano, Texas",Plano,Texas,South,1,23,0,Blonde,1,0,
+"Adrianne ""Jane"" Averbukh",26,0,0,Social Worker,Government,"West Hollywood, California",West Hollywood,California,West,1,23,0,Brown,0,0,
+Laura Pellerito,26,0,0,Accountant,Finance,"Dallas, Texas",Dallas,Texas,South,1,23,0,Black,0,0,
+Revian Chang,24,0,2,Nurse,Medical,"Austin, Texas",Austin,Texas,South,1,23,0,Blonde,1,0,
+Tahzjuan Hawkins,25,0,1,Business Development Associate,Corporate,"Castle Pines, Colorado",Castle Pines,Colorado,West,1,23,0,Black,0,0,
+Hannah Ann Sluss,23,0,5,Model,Arts/Entertainment,"Powell, Tennessee",Powell,Tennessee,South,11,24,1,Brown,0,1,67
+Madison Prewett,23,0,5,Foster Parent Recruiter,Sales,"Auburn, Alabama",Auburn,Alabama,South,10,24,0,Brown,0,0,66
+Victoria Fuller,26,0,2,Medical Sales Rep,Sales,"Virginia Beach, Virginia",Virginia Beach,Virginia,South,9,24,0,Black,0,0,66
+Kelsey Weier,28,0,0,Professional Clothier,Retail/Services/Entrepreneur,"Urbandale, Iowa",Urbandale,Iowa,Midwest,8,24,0,Blonde,1,0,67
+Kelley Flanagan,27,0,1,Attorney,Legal,"North Barrington, Illinois",North Barrington,Illinois,Midwest,7,24,0,Brown,0,0,64
+Natasha Parker,31,1,3,Event Planner,Arts/Entertainment,"New York City, New York",New York City,New York,Northeast,7,24,0,Black,0,0,
+Mykenna Dorn,22,0,6,Fashion Blogger,Journalist,"Langley, British Columbia",Langley,British Columbia,International,6,24,0,Blonde,1,0,
+Sydney Hightower,24,0,4,Retail Marketing Manager,Corporate,"Northport, Alabama",Northport,Alabama,South,6,24,0,Black,0,0,
+Tammy Ly,24,0,4,House Flipper,Real Estate,"Syracuse, New York",Syracuse,New York,Northeast,6,24,0,Brown,0,0,
+Victoria Paul,27,0,1,Nurse,Medical,"Alexandria, Louisiana",Alexandria,Louisiana,South,6,24,0,Blonde,1,0,
+Lexi Buchanan,26,0,2,Marketing Coordinator,Corporate,"Jacksonville, Florida",Jacksonville,Florida,South,5,24,0,Red,0,0,
+Shiann Lewis,27,0,1,Preschool Teacher,Education,"Las Vegas, Nevada",Las Vegas,Nevada,West,5,24,0,Black,0,0,
+Deandra Kanu,23,0,5,Home Care Coordinator,Medical,"Bar Harbor, Maine",Bar Harbor,Maine,Northeast,4,24,0,Black,0,0,
+Kiarra Norman,23,0,5,Nanny,Retail/Services/Entrepreneur,"Kennesaw, Georgia",Kennesaw,Georgia,South,4,24,0,Blonde,1,0,
+Savannah Mullins,27,0,1,Realtor,Real Estate,"Houston, Texas",Houston,Texas,South,4,24,0,Blonde,1,0,
+Alayah Benavidez,24,0,4,Orthodontist Assistant,Medical,"Helotes, Texas",Helotes,Texas,South,4,24,0,Brown,0,0,
+Alexa Caves,27,0,1,Esthetician,Medical,"Springfield, Illinois",Springfield,Illinois,Midwest,3,24,0,Black,0,0,
+Jasmine Nguyen,25,0,3,Client Relations Manager,Sales,"Houston, Texas",Houston,Texas,South,3,24,0,Black,0,0,
+Sarah Coffin,24,0,4,Medical Radiographer,Medical,"Knoxville, Tennessee",Knoxville,Tennessee,South,3,24,0,Blonde,1,0,
+Courtney Perry,26,0,2,Cosmetologist,Arts/Entertainment,"Venice, Florida",Venice,Florida,South,2,24,0,Blonde,1,0,
+Lauren Jones,26,0,2,Marketing Executive,Corporate,"Glendale, California",Glendale,California,West,2,24,0,Brown,0,0,
+Payton Moran,24,0,4,Business Development Rep,Corporate,"Wellesley, Massachusetts",Wellesley,Massachusetts,Northeast,2,24,0,Blonde,1,0,
+Avonlea Elkins,27,0,1,Cattle Rancher,Agriculture,"Fort Worth, Texas",Fort Worth,Texas,South,1,24,0,Blonde,1,0,
+Eunice Cho,23,0,5,Flight Attendant,Transportation,"Chicago, Illinois",Chicago,Illinois,Midwest,1,24,0,Brown,0,0,
+Jade Gilliland,26,0,2,Media Buyer,Arts/Entertainment,"Mesa, Arizona",Mesa,Arizona,West,1,24,0,Black,0,0,
+Jenna Serrano,22,0,6,Nursing Student,Student,"New Lenox, Illinois",New Lenox,Illinois,Midwest,1,24,0,Black,0,0,
+Katrina Badowski,28,0,0,Pro NBA Dancer,Arts/Entertainment,"St. Charles, Illinois",St. Charles,Illinois,Midwest,1,24,0,Brown,0,0,
+Kylie Ramos,26,0,2,Entertainment Sales Associate,Sales,"Davis, California",Davis,California,West,1,24,0,Blonde,1,0,
+Maurissa Gunn,23,0,5,Patient Care Coordinator,Medical,"Laurel, Montana",Laurel,Montana,West,1,24,0,Black,0,0,
+Megan Hops,26,0,2,Flight Attendant,Transportation,"San Bruno, California",San Bruno,California,West,1,24,0,Blonde,1,0,
+Rachael Kirkconnell,24,0,4,Graphic Designer,Arts/Entertainment,"Cumming, Georgia",Cumming,Georgia,South,11,25,0,Brown,0,1,65
+Michelle Young,27,0,1,Teacher,Education,"Woodbury, Minnesota",Woodbury,Minnesota,Midwest,10,25,0,Brown,0,0,69
+"Briana ""Bri"" Springs",24,0,4,Communications Manager,Corporate,"San Antonio, Texas",San Antonio,Texas,South,9,25,0,Black,0,0,65
+Serena Pitt,23,0,5,Publicist,Arts/Entertainment,"Markham, Ontario",Markham,Ontario,International,8,25,0,Brown,0,0,66
+Pieper James,23,0,5,Graduate Student,Student,"Happy Valley, Oregon",Happy Valley,Oregon,West,7,25,0,Brown,0,0,68
+Jessenia Cruz,27,0,1,Social Media Marketer,Corporate,"El Paso, Texas",El Paso,Texas,South,7,25,0,Black,0,0,64
+Kit Keenan,21,0,7,Fashion Entrepreneur,Retail/Services/Entrepreneur,"New York, New York",New York,New York,Northeast,7,25,0,Blonde,1,0,65
+Abigail Heringer,25,0,3,Client Financial Manager,Finance,"Salem, Oregon",Salem,Oregon,West,7,25,1,Brown,0,0,63
+Chelsea Vaughn,29,1,1,Runway Model,Arts/Entertainment,"Marietta, Georgia",Marietta,Georgia,South,6,25,0,Black,0,0,71
+Serena Chew,24,0,4,Flight Attendant,Transportation,"San Bruno, California",San Bruno,California,West,6,25,0,Black,0,0,65
+Katie Thurston,29,1,1,Bank Marketing Manager,Finance,"Lynnwood, Washington",Lynnwood,Washington,West,6,25,0,Brown,0,0,
+Brittany Galvin,23,0,5,Model,Arts/Entertainment,"Hinsdale, Illinois",Hinsdale,Illinois,Midwest,5,25,0,Black,0,0,
+"Mearg ""Magi"" Tareke",32,1,4,Pharmacist,Medical,"Adwa, Ethiopia[b]",Adwa,Ethiopia,International,5,25,0,Black,0,0,
+Ryan Claytor,26,0,2,Dancer/Choreographer,Arts/Entertainment,"Mechanicsville, Virginia",Mechanicsville,Virginia,South,5,25,0,Red,0,0,
+"Meredith ""MJ"" Snyder",23,0,5,Hairstylist,Retail/Services/Entrepreneur,"Hudson, Ohio",Hudson,Ohio,Midwest,5,25,0,Blonde,1,0,
+Catalina Morales,29,1,1,Former Miss Universe Puerto Rico,Arts/Entertainment,"Caguas, Puerto Rico[c]",Caguas,Puerto Rico,International,4,25,0,Brown,0,0,
+Lauren Maddox,29,1,1,Corporate Attorney,Legal,"Miami, Florida",Miami,Florida,South,4,25,0,Black,0,0,
+"Mariela ""Mari"" Pepin",24,0,4,Marketing Director,Corporate,"Severn, Maryland",Severn,Maryland,Northeast,4,25,0,Black,0,0,
+Victoria Larson,27,0,1,Queen,Retail/Services/Entrepreneur,"New York, New York",New York,New York,Northeast,4,25,0,Brown,0,0,
+Anna Redman,24,0,4,Copywriter,Arts/Entertainment,"Owatonna, Minnesota",Owatonna,Minnesota,Midwest,4,25,0,Blonde,1,0,
+Kaili Anderson,26,0,2,Hostess,Restaurant,"San Diego, California",San Diego,California,West,3,25,0,Brown,0,0,
+Khaylah Epps,28,0,0,Healthcare Advocate,Medical,"Durham, North Carolina",Durham,North Carolina,South,3,25,0,Black,0,0,
+"Kimberly ""Kim"" Li",28,0,0,ICU Nurse,Medical,"Cypress, California",Cypress,California,West,3,25,0,Black,0,0,
+Sarah Trott,24,0,4,Broadcast Journalist,Journalist,"San Diego, California",San Diego,California,West,3,25,0,Brown,0,0,
+Alana Milne,26,0,2,Photographer,Arts/Entertainment,"San Antonio, Texas",San Antonio,Texas,South,2,25,0,Brown,0,0,
+Illeana Pennetto,25,0,3,Health Food Developer,Corporate,"South Salem, New York",South Salem,New York,Northeast,2,25,0,Blonde,1,0,
+Kristin Hopkins,27,0,1,Attorney,Legal,"Virginia Beach, Virginia",Virginia Beach,Virginia,South,2,25,0,Black,0,0,
+Marylynn Sienna,28,0,0,Event Coordinator,Arts/Entertainment,"Huntington Beach, California",Huntington Beach,California,West,2,25,0,Black,0,0,
+Sydney Johnson,28,0,0,Marketing Specialist,Corporate,"Franklin, Tennessee",Franklin,Tennessee,South,2,25,0,Black,0,0,
+Alicia Holloway,24,0,4,Professional Ballerina,Arts/Entertainment,"Morgantown, West Virginia",Morgantown,West Virginia,South,1,25,0,Black,0,0,
+Amber Andrews,30,1,2,Nursing Student,Student,"Rialto, California",Rialto,California,West,1,25,0,Blonde,1,0,
+Carolyn Vallejo,30,1,2,Journalist,Journalist,"Newburyport, Massachusetts",Newburyport,Massachusetts,Northeast,1,25,0,Black,0,0,
+Casandra Suarez,25,0,3,Social Worker,Government,"Lodi, California",Lodi,California,West,1,25,0,Brown,0,0,
+Corrinne Jones,22,0,6,Marketing Manager,Corporate,"Pomfret, Connecticut",Pomfret,Connecticut,Northeast,1,25,0,Black,0,0,
+Emani Curl,25,0,3,Realtor,Real Estate,"Albuquerque, New Mexico",Albuquerque,New Mexico,West,1,25,0,Blonde,1,0,
+Kimberly Courneya,28,0,0,Airline Recruiter,Transportation,"Lake Tapps, Washington",Lake Tapps,Washington,West,1,25,0,Brown,0,0,
+Saneh Ste. Claire,25,0,3,IT Consultant,Corporate,"St. Augustine, Florida",St. Augustine,Florida,South,1,25,0,Brown,0,0,
+Cassidy Timbrooks,26,0,2,Executive Recruiter,Corporate,"Cave Creek, Arizona",Cave Creek,Arizona,West,,26,0,Blonde,1,,65
+Eliza Isichei,25,0,3,Marketing Manager,Corporate,"Tampa, Florida",Tampa,Florida,South,,26,0,Black,0,,65
+Elizabeth Corrigan,32,1,4,Real Estate Advisor,Real Estate,"Highlands Ranch, Colorado",Highlands Ranch,Colorado,West,,26,0,Blonde,1,,67
+Ency Abedin,28,0,0,Sales Manager,Sales,"Burbank, California",Burbank,California,West,,26,0,Brown,0,,68
+"Gabriela ""Gabby"" Windey",30,1,2,ICU Nurse,Medical,"O'Fallon, Illinois",O'Fallon,Illinois,Midwest,,26,0,Brown,0,,68
+Genevieve Parisi,26,0,2,Bartender,Restaurant,"Rehoboth, Massachusetts",Rehoboth,Massachusetts,Northeast,,26,0,Black,0,,66
+Hunter Haag,28,0,0,Human Resources Specialist,Corporate,"Lake Wylie, South Carolina",Lake Wylie,South Carolina,South,,26,0,Blonde,1,,
+Jillian “Jill” Chin,26,0,2,Architectural Historian,Misc,"Scituate, Rhode Island",Scituate,Rhode Island,Northeast,,26,0,Black,0,,
+Kate Gallivan,32,1,4,Real Estate Agent,Real Estate,"Clarksville, Tennessee",Clarksville,Tennessee,South,,26,0,Blonde,1,,
+Kira Mengistu,32,1,4,Physician,Medical,"Greensboro, North Carolina",Greensboro,North Carolina,South,,26,0,Black,0,,
+Lyndsey Windham,28,0,0,Industrial Sales Representative,Sales,"Orange, Texas",Orange,Texas,South,,26,0,Blonde,1,,
+Mara Agrait,32,1,4,Entrepreneur,Retail/Services/Entrepreneur,"Cherry Hill, New Jersey",Cherry Hill,New Jersey,Northeast,,26,0,Black,0,,
+Marlena Wesh,30,1,2,Former Olympian,Arts/Entertainment,"Virginia Beach, Virginia",Virginia Beach,Virginia,South,,26,0,Black,0,,
+Melina Nasab,27,0,1,Personal Trainer,Retail/Services/Entrepreneur,"Los Angeles, California",Los Angeles,California,West,,26,0,Black,0,,
+Rachel Recchia,25,0,3,Flight Instructor,Transportation,"Clermont, Florida",Clermont,Florida,South,,26,0,Blonde,1,,
+Sarah Hamrick,23,0,5,Wealth Management Advisor,Finance,"Spartanburg, South Carolina",Spartanburg,South Carolina,South,,26,0,Brown,0,,
+Serene Russell,26,0,2,Elementary School Teacher,Education,"Oklahoma City, Oklahoma",Oklahoma City,Oklahoma,South,,26,0,Black,0,,
+Shanae Ankney,29,1,1,Recruiter,Corporate,"Sycamore, Ohio",Sycamore,Ohio,Midwest,,26,0,Blonde,1,,
+Sierra Jackson,26,0,2,Yoga Instructor,Retail/Services/Entrepreneur,"Oklahoma City, Oklahoma",Oklahoma City,Oklahoma,South,,26,0,Black,0,,
+Susie Evans,28,0,0,Wedding Videographer,Retail/Services/Entrepreneur,"Poquoson, Virginia",Poquoson,Virginia,South,,26,0,Blonde,1,,
+Teddi Wright,24,0,4,Surgical Unit Nurse,Medical,"Redlands, California",Redlands,California,West,,26,1,Brown,0,,
+Tessa Tookes,26,0,2,Human Resources Specialist,Corporate,"Stamford, Connecticut",Stamford,Connecticut,Northeast,,26,0,Black,0,,
+Daria Rose,24,0,4,Law Student,Student,"Baldwin, New York",Baldwin,New York,Northeast,1,26,0,Black,0,0,
+Hailey Malles,26,0,2,Pediatric Nurse,Medical,"Orlando, Florida",Orlando,Florida,South,1,26,0,Blonde,1,0,
+Ivana Noble,31,1,3,Bar Mitzvah Dancer,Arts/Entertainment,"Snellville, Georgia",Snellville,Georgia,South,1,26,0,Black,0,0,
+Jane Paik,33,1,5,Social Media Director,Corporate,"Los Angeles, California",Los Angeles,California,West,1,26,0,Brown,0,0,
+Lindsay Dobbs,27,0,1,Neonatal Nurse,Medical,"Warner Robins, Georgia",Warner Robins,Georgia,South,1,26,0,Blonde,1,0,
+Rianna Hockaday,26,0,2,Registered Nurse,Medical,"Mount Pleasant, Texas",Mount Pleasant,Texas,South,1,26,0,Blonde,1,0,
+Samantha Jeffries,26,0,2,Occupational Therapist,Medical,"Dayton, Ohio",Dayton,Ohio,Midwest,1,26,0,Red,0,0,
+Claire Heilig,28,0,0,Spray Tanner,Retail/Services/Entrepreneur,"Virginia Beach, Virginia",Virginia Beach,Virginia,South,1,26,0,Blonde,1,0,
